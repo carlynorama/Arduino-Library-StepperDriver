@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+StepperDriver	                KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setCurrentTime	        	KEYWORD2
+turnCW	        		KEYWORD2
+turnCCW	        		KEYWORD2
+checkLimits    	        	KEYWORD2
+checkHome    	        	KEYWORD2
+checkSwitches    	       	KEYWORD2
+setSpeed	        	KEYWORD2
+fullStop	        	KEYWORD2
+
+
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
